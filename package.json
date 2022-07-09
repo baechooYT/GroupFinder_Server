@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "groupfinder_server",
+  "version": "1.0.0",
+  "description": "A server for Group Finder(Roblox Experince)",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baechooYT/GroupFinder_Server.git"
+  },
+  "author": "holybaechu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baechooYT/GroupFinder_Server/issues"
+  },
+  "homepage": "https://github.com/baechooYT/GroupFinder_Server#readme"
+}
